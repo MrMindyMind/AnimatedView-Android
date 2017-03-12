@@ -39,3 +39,6 @@ Navigate to the root directory of the local project and select it.
 
 #### Step 3. Sync Gradle
 You're good to go!
+
+## Demo
+Check out the [Demo Android Application](https://github.com/MrMindyMind/AnimatedView-Demo-Android). Demonstrating some very simple animations.
